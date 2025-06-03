@@ -1,6 +1,7 @@
-# Rokas
 # 💫 About Me:
-Hello! I'm a fourth year Artificial Intelligence engineering and programming student, <br>and I'm passionate guy with a strong academic background in artificial intelligence concepts <br>and machine learning techniques. <br>Skilled in few programming languages <br>with practical experience in data analysis and model development gained <br>through coursework and personal projects. 
+Hello! I'm a fourth year Artificial Intelligence engineering and programming student, <br>and I'm a passionate guy with a strong academic background in artificial intelligence concepts <br>and machine learning techniques. <br>Skilled in programming languages with practical experience in data analysis and model development gained through coursework and personal projects. I also enjoy building websites from scratch and with Wordpress, learning <br>and improving my skills, because simply - that's what I love to do.<br>
+My portfolio website is hosted here on GitHub:<br>
+https://rokelisk123.github.io/
 
 
 # 💻 Tech Stack:
